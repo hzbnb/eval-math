@@ -6,7 +6,7 @@
 
 纯js实现兼容性极强 支持各跨平台框架 （uniapp ，等）
 
-GitHub地址 ：https://github.com/hzbnb/eval-math（点个star 方便以后找到学习～    😁
+GitHub地址 ：https://github.com/hzbnb/eval-math （点个star 方便以后找到学习～    😁
 
 使用方法：
 
