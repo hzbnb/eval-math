@@ -10,15 +10,13 @@ GitHub地址 ：https://github.com/hzbnb （点个star 方便以后找到学习�
 
 使用方法：
 
+```js
 import {evalMath} from "./eval-math.js";
     
-evalMath("(1.5+1)*2*4"); // 20
+const test =  evalMath("(1.5+1)*2*4"); 
 
-    
-import {evalMath} from "./eval-math.js";
-    
-evalMath("(1.5+1)*2*4"); // 20
-[图片]
+console.log(test); // 20
+```
 
 
 
