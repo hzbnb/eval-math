@@ -14,6 +14,14 @@ import {evalMath} from "./eval-math.js";
     
 evalMath("(1.5+1)*2*4"); // 20
 
+    
+import {evalMath} from "./eval-math.js";
+    
+evalMath("(1.5+1)*2*4"); // 20
+[图片]
+
+
+
 
 
 
